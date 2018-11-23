@@ -1,0 +1,2 @@
+# Matlab-Distributed_sensor_algorithm_judege_connection
+用计算机语言编写图的连通性判断算法，判断节点是否连通以及确定连通分支的个数，采用Warshell算法
